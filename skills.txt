@@ -2,9 +2,11 @@ HTML
 JS
 PHP
 CSS
+SCSS
 React
 Angular
 Nodejs
 SQL
 MongoDB
 FireBase
+
